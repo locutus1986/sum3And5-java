@@ -12,6 +12,6 @@ public class sum3and5 {
                 }
             }
         }
-        System.out.println("the sume is: " + sum);
+        System.out.println("the sum is: " + sum);
     }
 }
